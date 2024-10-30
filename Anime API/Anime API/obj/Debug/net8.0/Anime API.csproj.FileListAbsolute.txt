@@ -1,0 +1,14 @@
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\bin\Debug\net8.0\Anime API.exe
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\bin\Debug\net8.0\Anime API.deps.json
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\bin\Debug\net8.0\Anime API.runtimeconfig.json
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\bin\Debug\net8.0\Anime API.dll
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\bin\Debug\net8.0\Anime API.pdb
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\obj\Debug\net8.0\Anime API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\obj\Debug\net8.0\Anime API.AssemblyInfoInputs.cache
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\obj\Debug\net8.0\Anime API.AssemblyInfo.cs
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\obj\Debug\net8.0\Anime API.csproj.CoreCompileInputs.cache
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\obj\Debug\net8.0\Anime API.dll
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\obj\Debug\net8.0\refint\Anime API.dll
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\obj\Debug\net8.0\Anime API.pdb
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\obj\Debug\net8.0\Anime API.genruntimeconfig.cache
+C:\Users\Kevin.Hyde-Opoku\Documents\Anime Web API\Anime API\Anime API\obj\Debug\net8.0\ref\Anime API.dll
