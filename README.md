@@ -16,6 +16,4 @@ Error Handling: Robust error handling for API requests, ensuring a smooth user e
 Technologies Used
 C#: The primary programming language used for building the API.
 .NET 8: The framework used to create the web API.
-ASP.NET Core: Utilized for building the RESTful API architecture.
-Entity Framework Core: Used for data access and ORM (Object-Relational Mapping).
 Jikan API: A public API that provides anime data sourced from MyAnimeList.
